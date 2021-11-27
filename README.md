@@ -1,4 +1,5 @@
-![Raft Phoenix (FULL)](https://user-images.githubusercontent.com/86506277/143665435-7bd8190b-0cf9-41b6-a826-625fea4087b0.png)
+![Raft Phoenix (TEXT)](https://user-images.githubusercontent.com/86506277/143665489-bdddfa41-7bd2-45e4-a4eb-2597ff6f95f7.png)
+
 # About The Project!
 Codename Phoenix is a modpack development project Hosted and Maintained by TripleR
 
